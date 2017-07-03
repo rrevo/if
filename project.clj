@@ -1,4 +1,4 @@
-(defproject io.github.rrevo/if "1.0.0"
+(defproject io.github.rrevo/if "1.1.0"
   :description "Better clojure if then else syntax"
   :url "https://github.com/rrevo/if"
   :license {:name "Eclipse Public License"
